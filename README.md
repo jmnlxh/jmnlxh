@@ -21,9 +21,9 @@ I enjoy building **simple, clean web apps**, experimenting with **modern fronten
 
 >
 <p align="center">
-  <img src="[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jmnlxh)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmnlxh)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 ---
 
-🧠 Always learning • ⚙️ Loves customization • 💻 Web-focused
+🧠 Always learning • ⚙️ Loves customization
