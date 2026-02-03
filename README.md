@@ -1,6 +1,6 @@
-# 👋 Hi there
+# 👋 Hi there! I'm Emmanuel
 
-### 🎓 BS Information Technology Student @ [SKSU](https://sksu.edu.ph)
+### 🎓 A BS Information Technology Student @ [SKSU](https://sksu.edu.ph)
 
 I enjoy building **simple, clean web apps**, experimenting with **modern frontend tools**, and learning by breaking things.
 
