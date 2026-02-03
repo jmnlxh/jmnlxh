@@ -19,14 +19,14 @@ I enjoy building **simple, clean web apps**, experimenting with **modern fronten
 
 ## 📊 GitHub Stats
 
-> replace `jmnlxh`
+>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmnlxh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmnlxh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
