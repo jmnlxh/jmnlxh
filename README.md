@@ -21,7 +21,7 @@ I enjoy building **simple, clean web apps**, experimenting with **modern fronten
 
 >
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmnlxh)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=jmnlxh" />
 </p>
 
 ---
