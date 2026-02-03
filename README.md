@@ -20,13 +20,8 @@ I enjoy building **simple, clean web apps**, experimenting with **modern fronten
 ## 📊 GitHub Stats
 
 >
-
 <p align="center">
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jmnlxh)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmnlxh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jmnlxh)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 ---
